@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>C:\Users\vicuo\source\repos\HotelManager\HotelManager\Properties\PublishProfiles\FolderProfile1.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="Dashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EditRoomForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UC_CheckOut.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UC_CustomerDetail.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UC_Employee.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UC_RegistCustomer.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UC_AddRoom.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
